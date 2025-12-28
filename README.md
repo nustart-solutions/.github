@@ -29,6 +29,6 @@ I bridge the gap between complex tech and business needs, focusing on accessibil
 
 -   🌐 **Website:** [nustart.solutions](https://nustart.solutions/)
 
--   💼 **LinkedIn:** [Your LinkedIn URL]
+-   💼 **LinkedIn:** [Your LinkedIn URL](https://www.linkedin.com/in/anneallen-nustart/)
 
--   📧 **Email:** info@nustart.solutions
+-   📧 **Email:** anne@nustart.solutions
