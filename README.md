@@ -25,6 +25,8 @@ I bridge the gap between complex tech and business needs, focusing on accessibil
 
 -   **Accessibility:** Auditing and fixing sites for WCAG 2.1 / ADA compliance.
 
+-   **GEO / AI Visibility:** Architecting an AI Visibility Engine to optimize client presence in LLMs. I ensure brands are cited and recommended by ChatGPT, Perplexity, Gemini, Claude, and Google AI Overviews through advanced structured data and semantic entity mapping.
+
 **📫 Connect with me**
 
 -   🌐 **Website:** [nustart.solutions](https://nustart.solutions/)
